@@ -1,0 +1,29 @@
+{
+  "name": "spaceatlas-sveltekit",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite dev",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "@sveltejs/adapter-vercel": "^5.5.0",
+    "@sveltejs/kit": "^2.8.0",
+    "@sveltejs/vite-plugin-svelte": "^4.0.0",
+    "@tailwindcss/vite": "^4.0.0",
+    "@types/leaflet": "^1.9.21",
+    "svelte": "^5.0.0",
+    "tailwindcss": "^4.0.0",
+    "vite": "^5.4.0"
+  },
+  "dependencies": {
+    "@threlte/core": "^8.0.0",
+    "@threlte/extras": "^9.0.0",
+    "leaflet": "^1.9.4",
+    "lucide-svelte": "^0.454.0",
+    "satellite.js": "5.0.0",
+    "three": "^0.169.0"
+  }
+}

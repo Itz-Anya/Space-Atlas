@@ -1,0 +1,17 @@
+{
+  "name": "SpaceAtlas: NASA Data Atlas",
+  "short_name": "SpaceAtlas",
+  "description": "Explore the universe through NASA's open data: APOD, Mars, asteroids, ISS tracker and more.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0b0620",
+  "theme_color": "#0b0620",
+  "categories": ["education", "science", "utilities"],
+  "icons": [
+    { "src": "/assets/logo.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/assets/logo.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
